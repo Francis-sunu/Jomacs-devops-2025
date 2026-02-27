@@ -1,1 +1,3 @@
-hey there...i ve just clone you
+hey there...i ve just cloned you
+my first git push and commit
+
